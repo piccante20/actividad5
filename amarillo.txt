@@ -1,3 +1,6 @@
 sfhnasfujihbasfijabfi
 color amarillo
+<<<<<<< HEAD
 moficación punto 7
+trabajo en color amarillo
+
